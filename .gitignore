@@ -1,0 +1,22 @@
+# Compiled Java files
+bin/
+*.class
+
+# VS Code workspace settings
+.vscode/
+
+# Java build artifacts
+out/
+target/
+*.jar
+
+# IDE files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Operating system files
+.DS_Store
+Thumbs.db

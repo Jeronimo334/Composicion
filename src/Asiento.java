@@ -25,7 +25,6 @@ public class Asiento {
         System.out.println("Asiento "+ codigo+ "liberado.");
     }
     public void mostrarEstado(){
-        ocupado=false;
         System.out.println("Asiento "+ codigo+ ": "+(ocupado ? "ocupao" : "libre."));
     }
 }
